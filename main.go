@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-const webContent = "dev-ops-oppit:v1.1"
+const webContent = "dev-ops-oppit:v2.21"
 
 func main() {
 	http.HandleFunc("/", helloHandler)
