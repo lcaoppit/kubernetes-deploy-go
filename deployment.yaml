@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.oppit.local
+  - host: go.rancher.oppit.com.br
     http:
       paths:
         - path: /
